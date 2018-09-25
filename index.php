@@ -8,3 +8,6 @@
 echo "add index page at ";
 echo "first web09 branch";
 echo "first web09 add";
+$i = 0;
+$i++;
+echo $i;
